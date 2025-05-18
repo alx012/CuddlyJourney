@@ -61,18 +61,26 @@ export const locations: Location[] = [
 // Location specific dialog sequences
 export const fountainDialogs = [
   // Haidilao dialogs
-  "Moo-Moo: 這是我們第一次見面的地方！",
-  "Woofles: 沒錯，在海底撈！我們常常一起來這裡吃飯。",
+  "牛牛: 這是我們第一次見面的地方！",
+  "狗狗: 沒錯，在海底撈！我們常常一起來這裡吃飯。",
   
   // Panni dialogs
-  "Moo-Moo: 這是寶寶最愛的餐廳！",
-  "Woofles: 沒錯，這裡的食物真的很好吃！",
+  "牛牛: 這是寶寶最愛的餐廳！",
+  "狗狗: 沒錯，這裡的食物真的很好吃！",
   
   // Qijin seaside dialogs
-  "Moo-Moo: 記得我們一起看的那次落日嗎？",
-  "Woofles: 在海邊吹著微風，然後晚上騎電動滑板車在駁二港口！",
+  "牛牛: 記得我們一起看的那次落日嗎？",
+  "狗狗: 在海邊吹著微風，然後晚上騎電動滑板車在駁二港口！",
   
   // Tainan bar dialogs
-  "Moo-Moo: 我們的第一次旅行！",
-  "Woofles: 在台南喝了好多好喝的酒，真的很開心！"
+  "牛牛: 我們的第一次旅行！",
+  "狗狗: 在台南喝了好多好喝的酒，真的很開心！",
+  
+  // Home dialogs
+  "牛牛: 這是我們的家！",
+  "狗狗: 我們常常待在家裡一起吃好吃的食物看好看的影片，好快樂！",
+  
+  // 520 celebration dialogs
+  "牛牛: 慶祝 520！我愛你！",
+  "狗狗: 你永遠是我的牛牛寶貝！今年有你，明年也要有你，以後都要是你！❤️"
 ];
